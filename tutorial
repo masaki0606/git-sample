@@ -2,4 +2,4 @@ select
   *
 from
   test
-where id not like '%uu%' and uu >= 300;
+where id not like '%uu%' and uu >= 100;
