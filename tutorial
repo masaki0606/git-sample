@@ -1,0 +1,5 @@
+select
+  *
+from
+  test
+where id not like '%uu%' and uu >= 100;
