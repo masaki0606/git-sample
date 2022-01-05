@@ -1,0 +1,6 @@
+select
+  *
+from
+  test
+where id not like '%uu%'
+limit 10;
