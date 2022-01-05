@@ -2,5 +2,4 @@ select
   *
 from
   test
-where id not like '%uu%'
-limit 10;
+where id not like '%uu%'；
